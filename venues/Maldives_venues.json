@@ -1,0 +1,1 @@
+{"get":"venues","parameters":{"country":"Maldives"},"errors":[],"results":1,"paging":{"current":1,"total":1},"response":[{"id":4150,"name":"Rasmee Dhandu Stadium","address":"Majeedhee Magu","city":"Mal\u00e9, North Mal\u00e9 Atoll, Kaafu Atoll","country":"Maldives","capacity":11850,"surface":"grass","image":"https:\/\/media-3.api-sports.io\/football\/venues\/4150.png"}]}
